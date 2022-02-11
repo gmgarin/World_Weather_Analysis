@@ -6,7 +6,7 @@ API_practice.ipynb
 random_numbers.ipynb
 
 # Deleting .DS Store files.
-.DS_Store
+.gotDS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
