@@ -11,7 +11,16 @@
 
 ### Retrieval of Weather Data
 #### The raw data were retrieved by ramdomly generating 2,000 sets of coordinates using *NumPy* library. The *CityPy* was used to identify the cities matching these coordinates. With [OpenWeatherMap API](https://openweathermap.org/current), different parameters for each city were gathered by using *for loop* code. The filetered data were turned into a data frame as shown below:
+
+![This is an image](/Weather_Database/deliverable1_output.png)
+ <p align="center">
+ Random Cities
+ </p>
+ 
+### Travel Destinations Map
+#### Using the retrieved cities data frame, preferred cities were identified based on user's preferences on minimum and maximum temperatures. In this case, the minimum was set to 70 and the maximum was 80. The results were converted into a new data frame. With [Google Maps and Places API](https://developers.google.com/places/web-service/search), hotels within 5000 meters of each city from the preferred cities data frame were identified and travel destinations map was created.
+
+![This is an image](/Vacation_Search/WeatherPy_vacation_map.png)
 <p align="center">
-    ![This is an image](/World_Weather_Analysis/Weather_Database/deliverable1_output.png)
-    Random Cities
+    Vacation Map
 </p>
