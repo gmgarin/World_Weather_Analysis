@@ -24,3 +24,8 @@
 <p align="center">
     Vacation Map
 </p>
+
+### Travel Itinerary Map
+#### To create a travel itinerary map, four cities were chosen (using *loc* method)  from the vacation map. Using [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview) , a travel map was created showing markers and waypoints. 
+
+![This is an image](/Vacation_Itinerary/WeatherPy_travel_map.png)
