@@ -12,6 +12,6 @@
 ### Retrieval of Weather Data
 #### The raw data were retrieved by ramdomly generating 2,000 sets of coordinates using *NumPy* library. The *CityPy* was used to identify the cities matching these coordinates. With [OpenWeatherMap API](https://openweathermap.org/current), different parameters for each city were gathered by using *for loop* code. The filetered data were turned into a data frame as shown below:
 <p align="center">
-    ![This is an image](Weather_Database/deliverable1_output.png)
+    ![This is an image](/World_Weather_Analysis/Weather_Database/deliverable1_output.png)
     Random Cities
 </p>
