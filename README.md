@@ -37,5 +37,5 @@
 
 ![This is an image](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 <p align="center">
-    Travel Map with Markes"
+    Travel Map with Markers
 </p>
