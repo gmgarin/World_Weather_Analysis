@@ -29,3 +29,13 @@
 #### To create a travel itinerary map, four cities were chosen (using *loc* method)  from the vacation map. Using [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview) , a travel map was created showing markers and waypoints. 
 
 ![This is an image](/Vacation_Itinerary/WeatherPy_travel_map.png)
+<p align="center">
+    Travel Map
+</p>
+
+#### The image below shows another version of the travel map with pop-up marker for each city. In the pop-up marker,  hotel name, city, country, and weather condition are included.
+
+![This is an image](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+<p align="center">
+    Travel Map with Markes"
+</p>
